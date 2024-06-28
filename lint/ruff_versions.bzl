@@ -1,5 +1,6 @@
 "This file is automatically updated by mirror_ruff.sh"
 RUFF_VERSIONS = {
+    "0.5.0": {},
     "v0.4.4": {
         "aarch64-apple-darwin": "bc285f4cc528dd1aa495e4e58c8d204720389b5ebab3deefc14cb97d07a1a460",
         "aarch64-pc-windows-msvc": "0f2739a3397f55dc5fb8538140e689258554fcc0690501f65bf680bf3c9361db",
